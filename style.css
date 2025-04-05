@@ -18,7 +18,7 @@ a {
 }
 
 .hero {
-  background: url('https://images.unsplash.com/photo-1531123897727-8f129e1688ce?auto=format&fit=crop&w=1950&q=80'; no-repeat center canter/cover;
+  background: url('https://images.unsplash.com/photo-1531123897727-8f129e1688ce?auto=format&fit=crop&w=1950&q=80'; no-repeat center center/cover;
   height: 100vh;
   position: relative;
   color: white;
