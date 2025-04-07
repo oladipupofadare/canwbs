@@ -18,7 +18,7 @@ a {
 }
 
 .hero {
-  background: url('https://media.istockphoto.com/id/2163768360/photo/gold-blurred-background.jpg?s=1024x1024&w=is&k=20&c=Jq8mwkok27EBq_LNs7uFjF2onGJfL2K6n4QlrMLXLo4=') no-repeat center center/cover;
+  background: url('https://images.unsplash.com/photo-1531123897727-8f129e1688ce?auto=format&fit=crop&w=1950&q=80') no-repeat center center/cover;
   height: 100vh;
   position: relative;
   color: white;
