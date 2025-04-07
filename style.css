@@ -14,7 +14,7 @@ text-align: center;
 }
 
 .hero {
-background: url('https://images.unsplash.com/photo-1531123897727-8f129e1688ce?auto=format&fit=crop&w=1950&q=80') no-repeat center center/cover;
+background: url('https://images.unsplash.com/photo-1531265726475-52ad60219627?q=80&w=2091&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D') no-repeat center center/cover;
 height: 100vh;
 display: flex;
 flex-direction: column;
